@@ -1,0 +1,23 @@
+{
+  "name": "awesome-hlfabric-development",
+  "version": "1.0.0",
+  "description": "> A currated list of resources for development applications and contract to run on Hyperledger Fabric",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "doctoc": "^1.4.0"
+  },
+  "scripts": {
+    "build": "doctoc readme.md --github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ampretia/awesome-hlfabric-development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ampretia/awesome-hlfabric-development/issues"
+  },
+  "homepage": "https://github.com/ampretia/awesome-hlfabric-development#readme"
+}
