@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "doctoc": "^1.4.0"
+    "doctoc": "^2.2.1"
   },
   "scripts": {
     "build": "doctoc readme.md --github"
